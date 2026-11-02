@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local databases (re-created and seeded on start-up)
+*.db
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+
+# Environment files (see .env.example)
+.env
+frontend/.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
