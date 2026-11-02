@@ -338,3 +338,23 @@ The full project report and supporting documents are in the [`docs/`](docs/) fol
 
 - `Smart_Medical_Waste_Project_Report_Final.pdf` / `.docx` – complete project report (U23CS704 – Mini Project)
 - `Team - 10 - Humanized.docx` – Chapters 1 to 6 (Introduction to Conclusion)
+
+### Screenshots
+
+| Landing Page | Live Collector Tracking (Hospital) |
+| :---: | :---: |
+| ![Landing page](docs/screenshots/01_landing.png) | ![Live tracking](docs/screenshots/07_hospital_active_pickup.png) |
+| **Admin – Assign Nearby Collector** | **Admin – ML Delay-Risk Model & Metrics** |
+| ![Assign collector](docs/screenshots/12_admin_assign_modal.png) | ![ML model](docs/screenshots/14_admin_ml_model.png) |
+
+All 21 application screenshots are in [`docs/screenshots/`](docs/screenshots/).
+
+### Diagrams and Result Charts
+
+| System Architecture | Pickup Request Lifecycle |
+| :---: | :---: |
+| ![Architecture](docs/figures/01_system_architecture.png) | ![Lifecycle](docs/figures/03_pickup_request_lifecycle.png) |
+| **Confusion Matrix** | **Feature Importance** |
+| ![Confusion matrix](docs/figures/09_confusion_matrix.png) | ![Feature importance](docs/figures/11_feature_importance.png) |
+
+All 14 diagrams and charts used in the report are in [`docs/figures/`](docs/figures/).
